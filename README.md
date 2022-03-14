@@ -4,8 +4,8 @@
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/wagnerpereiradev">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wagnerpereiradev&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=0&text_color=0fffff&title_color=d6ea38&icon_color=ffffff&bg_color=151515&border_radius=30px"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerpereiradev&layout=compact&langs_count=7&theme=merko&hide_border=0&text_color=0fffff&title_color=d6ea38&bg_color=151515&border_radius=20px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerpereiradev&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=0&text_color=0fffff&title_color=d6ea38&icon_color=ffffff&bg_color=151515&border_radius=30px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerpereiradev&layout=compact&langs_count=7&theme=merko&hide_border=0&text_color=0fffff&title_color=d6ea38&bg_color=151515&border_radius=20px"/>
 </div>
   
 <div style="display: inline_block"><br>
