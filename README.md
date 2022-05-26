@@ -17,9 +17,9 @@
 ##
   
 <div>
-  <a href="https://instagram.com/o_wrp" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffd100" target="_blank"></a>
+  <a href="https://instagram.com/imwagneer" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffd100" target="_blank"></a>
   <a href = "mailto:wagnerdev9@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ffd100" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wagner-pereira-924668232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffd100" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/o_wrp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffd100" target="_blank"></a> 
     
 </div>
   
