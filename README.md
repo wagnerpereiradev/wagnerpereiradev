@@ -2,6 +2,7 @@
 
 - 🌱 Estudando Web Java no Instituto PROA
 - 😄 Pronouns: ele/dele
+
 <div align="center">
   <a href="https://github.com/wagnerpereiradev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagnerpereiradev&show_icons=true&include_all_commits=true&count_private=true&text_color=ffffff&title_color=ffee32&icon_color=ffd100&bg_color=080708&border_color=ffd100&border_radius=20px"/>
@@ -9,9 +10,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wag-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wag-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wag-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wag-HTML" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wag-CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wag-JS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wag-CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 </div> 
 
 ##
