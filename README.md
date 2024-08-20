@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Wagner Pereira 👋
 
-- 🌱 Estudando Web Java no Instituto PROA
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/wagnerpereiradev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wagnerpereiradev&show_icons=true&include_all_commits=true&count_private=true&text_color=ffffff&title_color=ffee32&icon_color=ffd100&bg_color=080708&border_color=ffd100&border_radius=20px"/>
