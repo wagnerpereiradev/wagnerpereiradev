@@ -1,7 +1,3 @@
-Segue uma versão melhorada e mais completa para o seu README, agregando as novas tecnologias e projetos recentes. Fiz uma estrutura mais objetiva, colocando as informações “na lata”, com foco no que você vem fazendo. Veja se fica alinhado com o que você quer:
-
-⸻
-
 Olá! Eu sou o Wagner Pereira 👋
 
 Desenvolvedor de Produtos IA e WebServices. Crio soluções práticas e escaláveis, sempre pensando na experiência do usuário, na performance e na inovação. Minha stack abrange desde Next.js e Node.js para aplicações web modernas, até Python para automações e análises, além de tecnologias como Tizen OS, Electron e integrações avançadas em cloud e IA.
