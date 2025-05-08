@@ -1,4 +1,4 @@
-![Status](./https://github.com/wagnerpereiradev/wagnerpereiradev/actions/runs/14912887581/workflow)
+![Status](./profile-3d-contrib/profile-green.svg)
 
 **Olá! Eu sou o Wagner Pereira 👋**
 
