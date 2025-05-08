@@ -1,16 +1,8 @@
-![Status](./profile-3d-contrib/profile-night-green.svg)
-
 **Olá! Eu sou o Wagner Pereira 👋**
-
-  
 
 Desenvolvedor de Produtos IA e WebServices. Crio soluções práticas e escaláveis, sempre pensando na experiência do usuário, na performance e na inovação. Minha stack abrange desde **Next.js** e **Node.js** para aplicações web modernas, **Kotlin** e **Java** para desenvolvimento Android e AndroidTV, **Tizen OS** para Smart TVs Samsung, até **Python** para automações e análises, além de tecnologias como **Electron**, **Google Cloud Services** e integrações avançadas em cloud e IA.
 
-<div align="center">
-  <a href="https://github.com/wagnerpereiradev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerpereiradev&layout=compact&langs_count=7&text_color=ffffff&title_color=ffee32&bg_color=080708&border_radius=20px&border_color=ffd100"/>
-  </a>
-</div>
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 **Principais Tecnologias e Projetos**
 
