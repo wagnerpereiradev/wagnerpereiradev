@@ -4,7 +4,7 @@ Desenvolvedor de Produtos IA e WebServices. Crio soluções práticas e escaláv
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 
-**Principais Tecnologias e Projetos**
+## **Principais Tecnologias e Projetos**
 
 - **Next.js, Node.js & Vue.js:** Desenvolvimento de aplicações web modernas, com SSR, APIs REST e integrações robustas.
 - **Python:** Automação, scripts e análise de dados para soluções customizadas.
@@ -14,7 +14,7 @@ Desenvolvedor de Produtos IA e WebServices. Crio soluções práticas e escaláv
 - **APIs de Inteligência Artificial:** Integração com **OpenAI API**, **DeepSeek** e **Anthropic** para incorporar recursos avançados de IA em projetos.
 - **PHP & jQuery:** Desenvolvimento de aplicações web legadas e manutenção de sistemas existentes.
 
-**Conquistas Recentes**
+## **Conquistas Recentes**
 
 - **Aplicação Web de Alto Desempenho:** Projetos que integram Next.js, Vite e Node.js, focados em performance, escalabilidade e experiência do usuário.
 - **Aplicativos Android & AndroidTV:** Desenvolvimento com Kotlin e Java de aplicações otimizadas para diferentes dispositivos e formatos de tela.
@@ -44,7 +44,7 @@ Desenvolvedor de Produtos IA e WebServices. Crio soluções práticas e escaláv
   <img align="center" alt="Wag-Electron" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
 </div>
 
-**Conecte-se Comigo**
+## **Conecte-se Comigo**
 
 <div>
   <a href="mailto:wagnerpereiradev@gmail.com" target="_blank">
