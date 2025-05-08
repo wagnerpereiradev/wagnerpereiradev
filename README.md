@@ -1,4 +1,4 @@
-![Status](./https://github.com/wagnerpereiradev/wagnerpereiradev/actions/runs/14912887581/job/41891359444)
+![Status](./https://github.com/wagnerpereiradev/wagnerpereiradev/actions/runs/14912887581/workflow)
 
 **Olá! Eu sou o Wagner Pereira 👋**
 
