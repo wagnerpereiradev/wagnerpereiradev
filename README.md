@@ -1,3 +1,5 @@
+![Status](./url)
+
 **Olá! Eu sou o Wagner Pereira 👋**
 
   
