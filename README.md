@@ -1,4 +1,4 @@
-![Status](./profile-3d-contrib/profile-green.svg)
+![Status](./profile-3d-contrib/profile-black.svg)
 
 **Olá! Eu sou o Wagner Pereira 👋**
 
