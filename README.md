@@ -55,6 +55,4 @@ Desenvolvedor de Produtos IA e WebServices. Crio soluções práticas e escaláv
   </a>
 </div>
 
----
-
 Estou sempre aberto a novos desafios e parcerias que incentivem a inovação e a prática. Se algum projeto ou ideia bater com o que você precisa, bora conversar e construir soluções na lata, sem enrolação.
