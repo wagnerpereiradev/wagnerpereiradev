@@ -1,4 +1,4 @@
-# **Olá! Eu sou o Wagner Pereira 👋**
+# **Olá!! Eu sou o Wagner Pereira 👋**
 
 Desenvolvedor de Produtos IA e WebServices. Crio soluções práticas e escaláveis, sempre pensando na experiência do usuário, na performance e na inovação. Minha stack abrange desde **Next.js** e **Node.js** para aplicações web modernas, **Kotlin** e **Java** para desenvolvimento Android e AndroidTV, **Tizen OS** para Smart TVs Samsung, até **Python** para automações e análises, além de tecnologias como **Electron**, **Google Cloud Services** e integrações avançadas em cloud e IA.
 
